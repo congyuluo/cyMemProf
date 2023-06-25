@@ -1,0 +1,3 @@
+/home/congyu/Desktop/cymemprof/c_end/cmake-build-debug/CMakeFiles/test.dir
+/home/congyu/Desktop/cymemprof/c_end/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/congyu/Desktop/cymemprof/c_end/cmake-build-debug/CMakeFiles/rebuild_cache.dir

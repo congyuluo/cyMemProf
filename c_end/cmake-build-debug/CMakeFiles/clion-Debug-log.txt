@@ -1,0 +1,4 @@
+/home/congyu/.cache/JetBrains/RemoteDev/dist/d7cdd13ba7998_CLion-2023.1.2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/congyu/.cache/JetBrains/RemoteDev/dist/d7cdd13ba7998_CLion-2023.1.2/bin/ninja/linux/x64/ninja -G Ninja -S /home/congyu/Desktop/cymemprof/c_end -B /home/congyu/Desktop/cymemprof/c_end/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/congyu/Desktop/cymemprof/c_end/cmake-build-debug
